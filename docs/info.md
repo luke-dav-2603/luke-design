@@ -13,12 +13,14 @@ makes a small capital L in the bottom left corner with a dot in the right corner
 
 ## How to test
 
-|input a & b |
-|------------|
-|  0 0
-|  0 1
-|  1 0
-|  1 1 
+input a & b   output 1 
+0 0              1
+0 1              1 
+1 0              1 
+1 1              0
+
+input c & d   output 
+
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
