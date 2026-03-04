@@ -19,7 +19,23 @@ input a & b   output 1
 1 0              1 
 1 1              0
 
-input c & d   output 
+input c & d   output 2,3,4
+0 0              0 
+0 1              1
+1 0              1
+1 1              0
+
+input e & f    output 5,6,7 
+0 0              0
+0 1              1
+1 0              1
+1 1              1 
+
+input g & h     ouput 8 
+0 0              1
+0 1              1 
+1 0              1
+1 1              0
 
 ## External hardware
 
