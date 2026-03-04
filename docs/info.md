@@ -9,12 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+makes a small capital L in the bottom left corner with a dot in the right corner. 
 
 ## How to test
 
-Explain how to use your project
-
+|input a & b |
+|------------|
+|  0 0
+|  0 1
+|  1 0
+|  1 1 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
